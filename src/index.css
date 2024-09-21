@@ -18,6 +18,5 @@ body {
 
   min-height: 100vh;
   color: black;
-  background-color: white;
-
+  background-color: rgba(169, 169, 169, 0.58);
 }
