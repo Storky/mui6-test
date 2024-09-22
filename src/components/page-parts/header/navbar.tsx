@@ -16,7 +16,6 @@ import NavSettingsItem from "src/components/page-parts/header/settings";
 
 function ResponsiveAppBar() {
 
-
     return (
         <AppBar position="static">
             <Container maxWidth="xl">
